@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Searcher</string>
+    <string name="search">Search keyword here....</string>
+    <string name="are_you_inthought_of_searching">Are you inthought of searching?</string>
+</resources>
